@@ -5,7 +5,6 @@
   </a>
   <!-- 小恐龙图片 -->
   <image src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" align="center" alt="GIF" />
-  <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
   
